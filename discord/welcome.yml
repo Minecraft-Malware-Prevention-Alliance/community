@@ -67,17 +67,17 @@
       description: >-
         - <@&1115880370550870106> handle project-wide decisions and day-to-day maintenance of this server
 
-        - <@1115973394148634624> handle general moderation of this server, and you can ping them if there's a situation they need to address in a channel
+        - <@&1115973394148634624> handle general moderation of this server, and you can ping them if there's a situation they need to address in a channel
 
-        - <@1116242639474409473> manage stage channels during meetings, including dealing with requests to speak and moving speakers on when they're over time
+        - <@&1116242639474409473> manage stage channels during meetings, including dealing with requests to speak and moving speakers on when they're over time
 
-        - <@1116242091530526730> are here to represent their organisations and work directly with us on improving their projects and tooling
+        - <@&1116242091530526730> are here to represent their organisations and work directly with us on improving their projects and tooling
 
-        - <@1115852848111034398> are known to the admin team and work directly with us on malware analysis, and have access to shared malware samples
+        - <@&1115852848111034398> are known to the admin team and work directly with us on malware analysis, and have access to shared malware samples
 
-        - <@1116184922613358592> are known to the <@&1115880370550870106> or <@1115852848111034398>, and have access to some internal channels to aid with early planning work - but do not have access to shared malware samples
+        - <@&1116184922613358592> are known to the <@&1115880370550870106> or <@&1115852848111034398>, and have access to some internal channels to aid with early planning work - but do not have access to shared malware samples
 
-        - <@1118182483696029807> and <@1118182520018718821> users are regular users that have picked one of the roles in <id:customize> - <@1118182483696029807> users have access to speak in the working group channels, if they wish to contribute there
+        - <@&1118182483696029807> and <@&1118182520018718821> users are regular users that have picked one of the roles in <id:customize> - <@&1118182483696029807> users have access to speak in the working group channels, if they wish to contribute there
 
 - type: embed
   text: >- 
