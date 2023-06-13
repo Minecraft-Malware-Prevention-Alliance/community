@@ -59,7 +59,10 @@
       - Read the channel descriptions and make sure your discussions are on-topic for the channels you're using
 
 - type: embed
-  text: "## Useful Links"
+  text: >- 
+    ## Useful Links
+
+    If you're looking for a server invite, click/tap the button in the <id:home> tab.
 
   embeds:
     - color: 0x5865F2  # Blurple
@@ -67,5 +70,5 @@
         - [GitHub](https://github.com/Minecraft-Malware-Prevention-Alliance)
 
         - [fractueriser: Investigation Repo](https://github.com/fractureiser-investigation/fractureiser)
-        
+
         - [fractueriser: FAQ](https://github.com/fractureiser-investigation/fractureiser/blob/main/docs/users.md#frequently-asked-questions)
