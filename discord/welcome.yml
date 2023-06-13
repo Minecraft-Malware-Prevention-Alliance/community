@@ -8,6 +8,7 @@
     This server was originally set up by the mitigation team in charge of addressing the fractureiser malware, but it was never their official space. The server has since outgrown that team's needs and purpose, but you can still find it on IRC, at `#cfmalware` on EsperNet. There are also channels on this server that you can use to discuss the fracteuriser malware.
 
 - type: rules
+  text: "## Our Rules"
 
   rules:
     Follow Discord's Rules: >-
@@ -57,14 +58,12 @@
 
       - Read the channel descriptions and make sure your discussions are on-topic for the channels you're using
 
+- type: embed
+  text: "## Useful Links"
 
-- type: links
-
-  color: 0x5865F2  # Blurple
-  title: Useful Links
-
-  links:
-    GitHub: https://github.com/Minecraft-Malware-Prevention-Alliance
-
-    "fractueriser: Investigation": https://github.com/fractureiser-investigation/fractureiser
-    "fractueriser: FAQ": https://github.com/fractureiser-investigation/fractureiser/blob/main/docs/users.md#frequently-asked-questions
+  embeds:
+    - color: 0x5865F2  # Blurple
+      description: >
+        - [GitHub](https://github.com/Minecraft-Malware-Prevention-Alliance)
+        - [fractueriser: Investigation Repo](https://github.com/fractureiser-investigation/fractureiser)
+        - [fractueriser: FAQ](https://github.com/fractureiser-investigation/fractureiser/blob/main/docs/users.md#frequently-asked-questions)
