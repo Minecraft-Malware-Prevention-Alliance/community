@@ -1,0 +1,70 @@
+- type: text
+  text: >-
+    # Minecraft Malware Prevention Alliance
+
+    Welcome to the official Discord server for the MMPA - an organisation set up for cross-community collaboration, with the aim of improving the overall security of the Minecraft modding ecosystem.
+
+
+    This server was originally set up by the mitigation team in charge of addressing the fractureiser malware, but it was never their official space. The server has since outgrown that team's needs and purpose, but you can still find it on IRC, at `#cfmalware` on EsperNet. There are also channels on this server that you can use to discuss the fracteuriser malware.
+
+- type: rules
+
+  rules:
+    Follow Discord's Rules: >-
+      We're obliged to enforce Discord's rules, as a project that mostly exists on Discord - that means that everyone must follow the [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/terms/guidelines).
+
+    No Public Samples: >-
+      Do not share malware samples in public channels, and do not upload them directly to Discord. If you're a malware researcher and you wish to share samples with us, upload them to [Wormhole](https://wormhole.app) - you can request access to internal channels that you can use to share your Wormhole links, or you can DM one of the admins.
+    
+    Try to Speak English: >-
+      While we understand that not everyone speaks native-level English, it's the common language in our spaces - which means we're unable to moderate messages written in other languages. Please give it your best shot, and feel free to use translation tools if you need to - we will not tolerate users that make fun of anyone for their level of English.
+    
+    Respect Other Users: >-
+      This is a collaborative project, and it's important that everyone respects each other's differences and accounts for others' accessibility needs. To be more specific:
+
+      - Absolutely no bigotry will be tolerated - including, but not limited to, racism, ableism, sexism, classism, transphobia and queerphobia
+
+      - Keep all discussions "safe for work" - sexual/lewd content (and behaviour), gore, violence and abuse content have no place in this server
+
+      - Likewise, there is no place here for threats or blackmail, piracy, or any other discriminatory or illegal behaviour
+
+      - Use [tone tags](https://tonetags.carrd.co) to clarify any ambiguous messages - if people can't understand your joke, _it's a bad joke_
+
+      - Respect those that use [PluralKit](https://pluralkit.me) here, and only make use of it if you're part of a [plural system](https://morethanone.info), or need to use it as a mental health aid
+
+      - Do not post images, emotes or videos with fast-moving animations or flashing colours, or anything else that's likely to be a problem for a photosensitive user
+
+      If you need to report a problem, you can mention <@&1115973394148634624> directly in any channel, or you can send a DM to a moderator or admin. Reports will always be handled privately, and we'll do our best to protect your identity when dealing with them.
+
+    Behave Collaboratively: >-
+      This project is important for the future of the Minecraft modding ecosystem. It's important that everyone understands that the work we do here is crucial, and leaves their differences at the door.
+
+      If you're contributing to the MMPA, you will need to work with people you don't like - remember that malware is a much larger issue than any one individual or organisation, and act accordingly.
+
+    No Witch Hunts: >-
+      While it's understandable that people are curious who is behind the malware we fight against, this is not the right place to hunt down, identify or "unmask" those people. We have no interest in chasing people down or otherwise negatively affecting their lives - only fighting the malware itself. There are many reasons for this, including:
+
+      - Chasing people down doesn't solve any real problems for us, and is very much out of scope - if anyone is going to do this, it should be the authorities, not us
+
+      - Malware developers often use fake or stolen identities, and it's extremely likely that you'll end up targeting innocent people that have nothing to do with the malware we're dealing with
+
+      - Time spent chasing people down is time wasted - we should spend our efforts on fighting and preventing malware infections, not on wild goose chases
+
+    Respect the Space: >-
+      In order for us to do what we came here for, it's important that you respect the Discord server. To be more specific:
+
+      - Do not spam under any circumstances - and note that this includes dumping memes into an off-topic channel, regardless of other context
+
+      - Read the channel descriptions and make sure your discussions are on-topic for the channels you're using
+
+
+- type: links
+
+  color: 0x5865F2  # Blurple
+  title: Useful Links
+
+  links:
+    GitHub: https://github.com/Minecraft-Malware-Prevention-Alliance
+
+    "fractueriser: Investigation": https://github.com/fractureiser-investigation/fractureiser
+    "fractueriser: FAQ": https://github.com/fractureiser-investigation/fractureiser/blob/main/docs/users.md#frequently-asked-questions
