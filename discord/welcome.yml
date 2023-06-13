@@ -63,7 +63,9 @@
 
   embeds:
     - color: 0x5865F2  # Blurple
-      description: >
+      description: >-
         - [GitHub](https://github.com/Minecraft-Malware-Prevention-Alliance)
+
         - [fractueriser: Investigation Repo](https://github.com/fractureiser-investigation/fractureiser)
+        
         - [fractueriser: FAQ](https://github.com/fractureiser-investigation/fractureiser/blob/main/docs/users.md#frequently-asked-questions)
