@@ -83,7 +83,7 @@
   text: >- 
     ## Useful Links
 
-    To invite people to the server, use this link: https://discord.gg/zPdFK47682
+    To invite people to the server, use this link: <https://discord.gg/zPdFK47682>
 
   embeds:
     - color: 0x5865F2  # Blurple
